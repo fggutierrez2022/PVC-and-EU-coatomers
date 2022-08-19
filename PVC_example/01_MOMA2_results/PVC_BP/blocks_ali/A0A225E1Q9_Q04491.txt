@@ -1,0 +1,26 @@
+>pdb0A_pdb1A [(1, 10), (11, 4), (16, 7)] ['kabsch_icp', 'kabsch_icp', 'kabsch_icp']
+            	________   ________             ________     ________     _________    ________ _________ 
+pdb0A_1_10_q	PSVVCCAPD--GRVFVAEDPMDMGNDSEKPT-DRILCFHPG----GKVTVFAEKL---HAVFGLAYV----DGKVYVHH-CPKFSVFTDD
+pdb1A_1_10_t	IHDAVLDY-YGKRLATCSS------------DKTIKIFEV-EGETHKLIDTLT--GHEGPVWRVDWAHPKFGTILASCSYDGKVLIWKE-
+            	+  +        *+                    *  * +      *+   +       +*+ + ++       +      +*  ++ + 
+            	               ____                    ________       ____    
+pdb0A_1_10_q	DGVGKDR--------KDLIATTNPRPNTGFNDHI-----PSNIRLGMDG-----WLYMST--
+pdb1A_1_10_t	-------ENGRWSQIAVHA---------------VHSASVNSVQWAP--HEYGPLLLV--AS
+            	                  +                    ++++  ++        * +    
+
+            	 _______       _____          ___________              _________       ______   
+pdb0A_11_4_q	GGVLRFRPDG-----SHLEVYSSGT-----RNHLDVAVTAE--------------DEIFTYDNTDDGNGWWTRVTHM---
+pdb1A_11_4_t	-KVSVVEF--KENGTTSPII-----IDAHAIGVNSASWAPATIEEDGEHNGTKESRKFVTGGAD-------NLVKIWKYN
+            	  *            + + +               +   +                   *           + *      
+
+            	__________        _____ ___________                  ________       __ __________  _______
+pdb0A_16_7_q	PTGAIAYNEDALPAKY--RGNLFFCEWGRKQFLRLTVERNGGTYKI-------ANREDFLTGGP----SEFRPVGVAVSPDG-MSLYVTD
+pdb1A_16_7_t	VRDVAWSPTV------LLRSYLA-SVSQDRTCIIW-----------TQDNEQGPWKKTLLK---EEKFPD-VLWRASWSLS-GNVLALSG
+            	+  ++             *  *  +    ++ +                    + +   *         +  +  +  *+     * ++ 
+            	_          ________  
+pdb0A_16_7_q	WNYGGWKQNVQVGRLLKVTY-
+pdb1A_16_7_t	G----------DNKVTLWK-E
+            	             ++      
+
+
+eq:174	*:15	+:47	* and +:62

@@ -1,0 +1,35 @@
+>pdb0A_pdb3A [(1, 5), (6, 9), (15, 3), (18, 7)] ['kabsch_icp', 'kabsch_icp', 'kabsch', 'kabsch_icp']
+            	________  ___       ____           ______             _________         _____ 
+pdb0A_1_5_q	WKVEVVAEAPKLLHP-----SVVCCAPDGRV----FVAEDPMDMGNDSEKP---TDRILCFHPGGKVT----VFAEKL
+pdb3A_1_5_t	LRAQKLHS--LKS--SDITAILPT-------EQSQKLVLAK----------KNGDVEVYSRDG-----NTLKLFQVY-
+            	 ++  +               +++            ++                   + +  +         +*    
+
+            	                                _______         _____                            _______  
+pdb0A_6_9_q	VFGLAYVDGKVYVHHC----------------PKFSVFTDDDGVG---KDRKDLIATTNPRPNTGFNDHIP----------SNIRLGMDG
+pdb3A_6_9_t	----------------NFYFANELSTIFAQCKETLILLS------TTNLHEYD------------------RIIDRRGINHCWLFERS--
+            	                                    + +             *                            + +      
+            	       _______                                    ____                  
+pdb0A_6_9_q	-------WLYMSTGDKGIYGAVGTDGSKA---------------------QIYGGGVLRF------------
+pdb3A_6_9_t	HKNKEEKNTYLIYS---------------TINTAKMRVLIWEGRTYKNMMEASL------SYRKETIRSIYP
+            	         *+                                        + +                  
+
+            	                                                                                          
+pdb0A_15_3_q	EVYSSGTRNHLDVAV---------------------------------------------------------------------------
+pdb3A_15_3_t	---------------GITLATDLGIYHWPYNKPSLIRIEKTVKNKFPKDMISALTELKEQAEKVIEKKPKKNSHFDAQSFSSMDRMSRKS
+            	                                                                                          
+            	                         ___________      ________ 
+pdb0A_15_3_q	-------------------------TAEDEIFTYDNTDDGNGWWTRVTHM-
+pdb3A_15_3_t	SMSSLWYRTIRNERGNKIRYTFELDGNDATPMIIDG------ATKKIFKVE
+            	                           +  +   *          ++ ++ 
+
+            	    _____        _________    ________                   ___    ____  ______    ________  
+pdb0A_18_7_q	PTG-AIAYNEDALPAKYRGNLFFCEWGRK-QFLRLTVERNGGTYKIANRED------FLTGGP-SEFRP-VGVAVSPDG-MSLYVTDWNY
+pdb3A_18_7_t	---HMQYLS--------SNLLMLYNS---STIKFVDYE-------------NGFTFLQQK---IPEGI-KWVKNLS---GTYFLVWTS--
+            	    +   +           *         +   +  *                           *     +  +*        *     
+            	           ________ 
+pdb0A_18_7_q	GGWKQNVQV--GRLLKVTY-
+pdb3A_18_7_t	---------NDEVQLFSYHV
+            	              *     
+
+
+eq:135	*:10	+:31	* and +:41

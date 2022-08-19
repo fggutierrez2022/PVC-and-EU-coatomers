@@ -1,0 +1,35 @@
+>pdb0A_pdb1A [(4, 7), (13, 3), (16, 6), (23, 5)] ['kabsch_icp', 'kabsch_icp', 'kabsch_icp', 'kabsch_icp']
+            	____________               _____________________________            ______________________
+pdb0A_4_7_q	PAFARWSAIWTLDAIDG----------GKSSRTAIIAALKDDDASVRRQAARQLGTRAAR--------EATSELTKLLVGEDASVRFQAA
+pdb1A_4_7_t	DVEQKKLVYLYV-----MNYAETHPELCILAVNTFITDAQDPNPLIRCMAIRTMSM----IRVDKILEYIETPLRRTLHDDNAYVRKTAV
+            	 +  +  +   +                    +  *  + *  + +*  *+*++               + + * + *  + * ** +*+
+            	_______            ____________________________      
+pdb0A_4_7_q	AALGRIGDK----------AAVPALQSALGQSDLFSRYAAFTALNRIGR----
+pdb1A_4_7_t	ICVAKLF--QLNKDLCVELGVVEDLVNALDDSNPLVIANATAALIEI--HNMD
+            	+ ++++             ++*  * +**  * +     *  **  *      
+
+            	    _______________  __________________                                      ___________  
+pdb0A_13_3_q	----VEGLAVALAAFAADAKHPAEARAAAVAALAALHRKPLPWNGQWWGTQPVRSPRPAGVDAWAGTPV--------ALKAVRDSLKS--
+pdb1A_13_3_t	DSLEAQDIIDRVTAHLQHV--NPAVVLATIKVIVRNLPQ------------------------------IEYSSNSLIMKRLSSAFVSLM
+            	    +  ++  + * +  +   + + +* + +++                                           ++* +     *  
+
+            	  ______________                                  _______________                 ________
+pdb0A_16_6_q	DAILRRAAIEAVAVVKDADSAAALVPAFPKE-------------------SDPEVKRAILRALAAVKSPA------------AADLVASL
+pdb1A_16_6_t	--EMQYVALKNIRIIL---------------EKYPELLTKELRIFYVKFNDPLYVKLEKIDILVR-----LVDPSNLKQCTLLLTELKEY
+            	   +  +*+  + ++                                     + **   + +*+                  ++  +   
+            	__    _________________        _______________        ____________   
+pdb0A_16_6_q	LAKPG-ETPDLLADAVAAAGQIG--------GAKMTEALTSFIASQAPPVA---VASAIEFLGTQK---
+pdb1A_16_6_t	AM---EYEPEFVSRAIQALSQLGIKYAQESFVSKVLDILLELLERQ-----DTIKDDCCISLCDLLRHC
+            	++      *+ +  *+ *+ *+*        + *+ ++*   +  *               *       
+
+            	              _______                                     _________________        _______
+pdb0A_23_5_q	DAKVRTA-------AVAALAAIGGEPAAKALVSMLAD---------------------KKPDVRRAAIGALAVVKSK------SAIEPLL
+pdb1A_23_5_t	-------SDIAKCNYVWLLGQ----------------HPNNFSDLESKINIFIENFVQEEALTQMSLLMTIVRLH--ATLTGSMLQSVLE
+            	               * +*+                                        +     +++ ++ ++         +  +* 
+            	____         __________    
+pdb0A_23_5_q	KAFADPD------TRFEAVAALAAT--
+pdb1A_23_5_t	LATQ---QTHELDVRDMAMMYWR--CL
+            	 *            *  *++       
+
+
+eq:270	*:43	+:81	* and +:124

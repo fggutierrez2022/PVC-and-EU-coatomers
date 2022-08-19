@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ----------          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|P32074|COPG_YEAST  -          P32074_ALL|COPG|Saccharomyces -                  0 2034.3  28.8         0 2034.2  28.8   1.0   1   0   0   1   1   1   1 Coatomer subunit gamma OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SEC21 PE=1 SV=2
+sp|P87140|COPG_SCHPO  -          P32074_ALL|COPG|Saccharomyces -           7.2e-180  604.8  15.4  9.3e-180  604.5  15.4   1.1   1   0   0   1   1   1   1 Probable coatomer subunit gamma OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=sec21 PE=1 SV=1
+sp|Q54HL0|COPG_DICDI  -          P32074_ALL|COPG|Saccharomyces -           1.3e-152  514.7  17.9  2.4e-152  513.8  17.9   1.3   1   1   0   1   1   1   1 Coatomer subunit gamma OS=Dictyostelium discoideum OX=44689 GN=copG PE=1 SV=1
+sp|Q0WW26|COPG_ARATH  -          P32074_ALL|COPG|Saccharomyces -           1.7e-150  507.7  12.9  2.4e-148  500.5  12.9   2.4   1   1   0   1   1   1   1 Coatomer subunit gamma OS=Arabidopsis thaliana OX=3702 GN=At4g34450 PE=1 SV=2
+sp|Q9PUE4|COPG2_DANRE -          P32074_ALL|COPG|Saccharomyces -           1.2e-147  498.2   8.4  1.1e-120  409.1   2.6   2.4   1   1   1   2   2   2   2 Coatomer subunit gamma-2 OS=Danio rerio OX=7955 GN=copg2 PE=2 SV=2
+sp|Q6Z382|COPG2_ORYSJ -          P32074_ALL|COPG|Saccharomyces -           1.5e-147  497.9  15.3  2.2e-145  490.8  15.3   2.4   1   1   0   1   1   1   1 Coatomer subunit gamma-2 OS=Oryza sativa subsp. japonica OX=39947 GN=Os07g0201100 PE=2 SV=1
+sp|A2VE21|COPG2_BOVIN -          P32074_ALL|COPG|Saccharomyces -           2.4e-147  497.2  10.4  6.4e-146  492.5  10.4   2.4   1   1   0   1   1   1   1 Coatomer subunit gamma-2 OS=Bos taurus OX=9913 GN=COPG2 PE=2 SV=1
+sp|Q9I8E6|COPG2_TAKRU -          P32074_ALL|COPG|Saccharomyces -           5.4e-147  496.1   8.8  5.4e-122  413.4   3.9   2.4   1   1   1   2   2   2   2 Coatomer subunit gamma-2 OS=Takifugu rubripes OX=31033 GN=copg2 PE=3 SV=1
+sp|Q9QXK3|COPG2_MOUSE -          P32074_ALL|COPG|Saccharomyces -           7.8e-147  495.5   9.5  7.1e-146  492.4   9.5   2.3   1   1   0   1   1   1   1 Coatomer subunit gamma-2 OS=Mus musculus OX=10090 GN=Copg2 PE=1 SV=1
+sp|Q8H852|COPG1_ORYSJ -          P32074_ALL|COPG|Saccharomyces -           3.2e-146  493.5  14.8  1.3e-117  398.8   8.5   2.4   2   1   0   2   2   2   2 Coatomer subunit gamma-1 OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0227000 PE=2 SV=2
+sp|Q4AEF8|COPG1_RAT   -          P32074_ALL|COPG|Saccharomyces -           6.9e-146  492.4  12.2  2.4e-119  404.6   3.0   2.4   1   1   1   2   2   2   2 Coatomer subunit gamma-1 OS=Rattus norvegicus OX=10116 GN=Copg1 PE=2 SV=1
+sp|Q9QZE5|COPG1_MOUSE -          P32074_ALL|COPG|Saccharomyces -           8.6e-146  492.1  12.1  2.7e-119  404.4   2.9   2.4   1   1   1   2   2   2   2 Coatomer subunit gamma-1 OS=Mus musculus OX=10090 GN=Copg1 PE=1 SV=1
+sp|Q9UBF2|COPG2_HUMAN -          P32074_ALL|COPG|Saccharomyces -           1.9e-145  491.0  11.1    4e-144  486.6  11.1   2.3   1   1   0   1   1   1   1 Coatomer subunit gamma-2 OS=Homo sapiens OX=9606 GN=COPG2 PE=1 SV=1
+sp|P53620|COPG1_BOVIN -          P32074_ALL|COPG|Saccharomyces -           6.7e-145  489.1   8.7  4.1e-119  403.8   1.6   2.4   1   1   1   2   2   2   2 Coatomer subunit gamma-1 OS=Bos taurus OX=9913 GN=COPG1 PE=1 SV=1
+sp|Q9Y678|COPG1_HUMAN -          P32074_ALL|COPG|Saccharomyces -             7e-144  485.8  10.0    2e-118  401.5   2.6   2.4   1   1   1   2   2   2   2 Coatomer subunit gamma-1 OS=Homo sapiens OX=9606 GN=COPG1 PE=1 SV=1
+sp|Q6DKD7|COPG2_XENLA -          P32074_ALL|COPG|Saccharomyces -           5.8e-143  482.7   9.2  3.1e-117  397.7   4.0   2.4   2   1   0   2   2   2   2 Coatomer subunit gamma-2 OS=Xenopus laevis OX=8355 GN=copg2 PE=2 SV=1
+sp|Q66JI9|COPG2_XENTR -          P32074_ALL|COPG|Saccharomyces -           7.4e-143  482.4   9.8  9.1e-118  399.4   4.0   2.4   1   1   0   2   2   2   2 Coatomer subunit gamma-2 OS=Xenopus tropicalis OX=8364 GN=copg2 PE=2 SV=1
+sp|Q22498|COPG_CAEEL  -          P32074_ALL|COPG|Saccharomyces -             6e-142  479.4   9.3  4.2e-122  413.7   3.6   2.3   1   1   1   2   2   2   2 Probable coatomer subunit gamma OS=Caenorhabditis elegans OX=6239 GN=copg-1 PE=3 SV=1
+#
+# Program:         jackhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ./PVC_SPAH/P32074.seq
+# Target file:     uniprot_sprot.fasta
+# Option settings: jackhmmer -N 1 --tblout ./PVC_SPAH/P32074.tbl -E 1e-140 --cpu 10 ./PVC_SPAH/P32074.seq uniprot_sprot.fasta 
+# Current dir:     /home/fernando/Programas/hmmer-3.3.2/tutorial
+# Date:            Wed Aug 17 15:54:26 2022
+# [ok]

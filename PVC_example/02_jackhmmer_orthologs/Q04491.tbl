@@ -1,0 +1,24 @@
+#                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ----------           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q04491|SEC13_YEAST -          Q04491_ALL|SEC13|Saccharomyces -           2.1e-204  682.2  13.3  2.3e-204  682.0  13.3   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SEC13 PE=1 SV=1
+sp|Q6CSZ5|SEC13_KLULA -          Q04491_ALL|SEC13|Saccharomyces -           2.9e-172  576.6  11.3  3.2e-172  576.4  11.3   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=SEC13 PE=3 SV=1
+sp|Q6FNV4|SC131_CANGA -          Q04491_ALL|SEC13|Saccharomyces -           1.4e-170  571.1  12.0  1.6e-170  570.9  12.0   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13-1 OS=Candida glabrata (strain ATCC 2001 / CBS 138 / JCM 3761 / NBRC 0622 / NRRL Y-65) OX=284593 GN=SEC131 PE=3 SV=1
+sp|Q75BS2|SEC13_ASHGO -          Q04491_ALL|SEC13|Saccharomyces -             6e-170  569.0  10.5  6.6e-170  568.8  10.5   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=SEC13 PE=3 SV=1
+sp|P53024|SEC13_KOMPG -          Q04491_ALL|SEC13|Saccharomyces -           2.4e-143  481.6  10.1  2.7e-143  481.4  10.1   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Komagataella phaffii (strain GS115 / ATCC 20864) OX=644223 GN=SEC13 PE=1 SV=3
+sp|Q6BIR1|SEC13_DEBHA -          Q04491_ALL|SEC13|Saccharomyces -           1.1e-139  469.6  11.0  1.2e-139  469.4  11.0   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / JCM 1990 / NBRC 0083 / IGC 2968) OX=284592 GN=SEC13 PE=3 SV=1
+sp|A3LNW3|SEC13_PICST -          Q04491_ALL|SEC13|Saccharomyces -           9.8e-139  466.5  10.1  1.1e-138  466.3  10.1   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545) OX=322104 GN=SEC13 PE=3 SV=2
+sp|Q5AEF2|SEC13_CANAL -          Q04491_ALL|SEC13|Saccharomyces -           1.1e-138  466.3  11.4  1.3e-138  466.1  11.4   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=SEC13 PE=1 SV=2
+sp|A5DXE2|SEC13_LODEL -          Q04491_ALL|SEC13|Saccharomyces -           1.2e-137  463.0  11.4  1.3e-137  462.8  11.4   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Lodderomyces elongisporus (strain ATCC 11503 / CBS 2605 / JCM 1781 / NBRC 1676 / NRRL YB-4239) OX=379508 GN=SEC13 PE=3 SV=1
+sp|Q6BZX5|SEC13_YARLI -          Q04491_ALL|SEC13|Saccharomyces -           3.1e-135  455.0  12.5  3.5e-135  454.8  12.5   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Yarrowia lipolytica (strain CLIB 122 / E 150) OX=284591 GN=SEC13 PE=3 SV=1
+sp|A5DHD9|SEC13_PICGU -          Q04491_ALL|SEC13|Saccharomyces -           6.3e-132  444.1  11.9  7.3e-132  443.9  11.9   1.0   1   0   0   1   1   1   1 Protein transport protein SEC13 OS=Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) OX=294746 GN=SEC13 PE=3 SV=2
+#
+# Program:         jackhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ./PVC_BP/Q04491.seq
+# Target file:     uniprot_sprot.fasta
+# Option settings: jackhmmer -N 1 --tblout ./PVC_BP/Q04491.tbl -E 1e-130 --cpu 10 ./PVC_BP/Q04491.seq uniprot_sprot.fasta 
+# Current dir:     /home/fernando/Programas/hmmer-3.3.2/tutorial
+# Date:            Wed Aug 17 13:56:09 2022
+# [ok]

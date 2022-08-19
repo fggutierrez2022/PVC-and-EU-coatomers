@@ -1,0 +1,30 @@
+>pdb0A_pdb2A [(2, 10), (12, 4), (16, 7)] ['kabsch', 'kabsch_icp', 'kabsch_icp']
+            	 _____    _________             _________                                                 
+pdb0A_2_10_q	-VVCCAP---DGRVFVAEDPMDMGNDSEKPT-DRILCFHPGGKVTVFAEK----------------------------------------
+pdb2A_2_10_t	TCLDYS-ESEIGMIGVGEK------------NGYLRIFNIS---------GQNSSSPASHAPVGLNANNETSMTNASGGKAAQAENIVGS
+            	  +        * + *+*                +  * +                                                  
+            	                         __________ ________       ________                               
+pdb0A_2_10_q	-------------------------LHAVFGLAYV-DGKVYVHHC------PKFSVFTDDDGVGKDRKDLIATTNPRPNTGFNDH-----
+pdb2A_2_10_t	VSNLKDTQGYPVSETNYDIRVRAKKQRCINSLGINTNGLIAMGL-DRNKHDSSLQIWDM--------------------------NYHDD
+            	                          + +  *+    * + +            +++                                 
+            	               ________      _______                   _______
+pdb0A_2_10_q	---------------IPSNIRLGMDG---WLYMSTGDKGIYGAVGTDGSKAQIYGGGVLRFR
+pdb2A_2_10_t	SHETINPMFSYCTNESIVSLKFL---NDTSVLAAST-------------------KFLKEID
+            	                + +++ +       + + +                      +    
+
+            	                ________   __________                           _________ 
+pdb0A_12_4_q	VAVTAEDE--------IFTYDNTDDGNGWWTRVTHMVDGGFYGYPWDYKPQRP-----------YTLWMMTDY-
+pdb2A_12_4_t	--------IKLNPFNDWQFSTYGD---DGTLAIWDRR----------------KLSDQASLGDLNVASPLLTFE
+            	                       *        +                                 + ++  + 
+
+            	  _______            ______       _________                        _________           ___
+pdb0A_16_7_q	PTGAIAYNEDALPAKYRG---NLFFCEWGRK---QFLRLTVERNGGT--------------------YKIANREDFLTGGPSE----FRP
+pdb2A_16_7_t	--CFRWSCV---------RNNEFATLH----RGDTIKRWRLGY----YCDSNRDIAADDDNEMNIENLFVSSVHDT-------NTMYDRV
+            	       +                          +  *  +                            + +  *             *+
+            	______           _______          ________ 
+pdb0A_16_7_q	VGVAVSPDGM-------SLYVTDWNYGGWKQNVQVGRLLKVTY
+pdb2A_16_7_t	ATFDYI----PRSNNGTSLICMRQ----------SGTIYRMP-
+            	+                **                * + ++  
+
+
+eq:153	*:13	+:37	* and +:50

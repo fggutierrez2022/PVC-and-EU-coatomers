@@ -1,0 +1,9 @@
+python /home/fernando/Escritorio/momatools/moma/tableauSSE.py -t DSSP -c A -o /home/fernando/Escritorio/momatools/data/input/pdbpdb0A_all.out /home/fernando/Escritorio/momatools/data/input/pdb0.pdb 
+python /home/fernando/Escritorio/momatools/moma/tableauSSE.py -t DSSP -c A -o /home/fernando/Escritorio/momatools/data/input/pdbpdb1A_all.out /home/fernando/Escritorio/momatools/data/input/pdb1.pdb 
+/home/fernando/Escritorio/momatools/moma/MOMA_DP /home/fernando/Escritorio/momatools/data/input/pdbpdb0A_all.out /home/fernando/Escritorio/momatools/data/input/pdbpdb1A_all.out -1 -16 45 20 2
+mv /home/fernando/Escritorio/momatools/data/input/pdbpdb0A_all.out /home/fernando/Escritorio/momatools/tmp/mtx
+mv /home/fernando/Escritorio/momatools/data/input/pdbpdb1A_all.out /home/fernando/Escritorio/momatools/tmp/mtx
+mv /home/fernando/Escritorio/momatools/data/input/pdb0.dssp /home/fernando/Escritorio/momatools/tmp/dssp/pdbpdb0.dssp
+mv /home/fernando/Escritorio/momatools/data/input/pdb1.dssp /home/fernando/Escritorio/momatools/tmp/dssp/pdbpdb1.dssp
+cp /home/fernando/Escritorio/momatools/data/input/pdb0.pdb /home/fernando/Escritorio/momatools/tmp/pdb/pdbpdb0.ent
+cp /home/fernando/Escritorio/momatools/data/input/pdb1.pdb /home/fernando/Escritorio/momatools/tmp/pdb/pdbpdb1.ent

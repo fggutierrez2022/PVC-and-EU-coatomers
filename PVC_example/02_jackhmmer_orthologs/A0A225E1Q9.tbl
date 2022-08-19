@@ -1,0 +1,32 @@
+#                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UniRef50_A0A225E1Q9  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -           1.3e-240  808.9  11.9  1.7e-240  808.5  11.9   1.2   1   0   0   1   1   1   1 Cytochrome c domain-containing protein n=1 Tax=Fimbriiglobus ruber TaxID=1908690 RepID=A0A225E1Q9_9BACT
+UniRef50_A0A5C1AQW8  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -           6.6e-209  704.5  10.3  1.3e-208  703.6  10.3   1.5   1   0   0   1   1   1   1 Putative beta-propeller-type and TIM-barrel-type glycoside hydrolase n=1 Tax=Limnoglobus roseus TaxID=2598579 RepID=A0A5C1AQW8_9BACT
+UniRef50_A0A2V6PFR9  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -           3.7e-148  504.6   1.8  4.2e-148  504.4   1.8   1.0   1   0   0   1   1   1   1 GSDH domain-containing protein n=2 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V6PFR9_9BACT
+UniRef50_A0A2V5N584  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -             1e-145  496.6   5.1  1.4e-145  496.2   5.1   1.2   1   0   0   1   1   1   1 Cytochrome c domain-containing protein n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V5N584_9BACT
+UniRef50_A0A2V5X0R6  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -           1.8e-140  479.3   3.6  4.9e-140  477.9   3.9   1.5   2   0   0   2   2   2   1 Cytochrome c domain-containing protein n=5 Tax=PVC group TaxID=1783257 RepID=A0A2V5X0R6_9BACT
+UniRef50_A0A2V5W5L3  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -             2e-140  479.1   3.9  2.7e-140  478.8   3.9   1.1   1   0   0   1   1   1   1 GSDH domain-containing protein (Fragment) n=2 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V5W5L3_9BACT
+UniRef50_A0A538PCY9  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -           1.9e-134  459.5   3.3  3.1e-134  458.8   3.3   1.2   1   0   0   1   1   1   1 Uncharacterized protein (Fragment) n=3 Tax=Verrucomicrobia TaxID=74201 RepID=A0A538PCY9_9BACT
+UniRef50_A0A1U7CQV8  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            2.1e-97  337.6   9.9   8.4e-97  335.6   9.4   2.0   2   0   0   2   2   2   1 Cytochrome c domain-containing protein n=1 Tax=Paludisphaera borealis TaxID=1387353 RepID=A0A1U7CQV8_9BACT
+UniRef50_A3ZWK1      -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            1.8e-96  334.5   8.0   2.9e-96  333.8   8.0   1.3   1   0   0   1   1   1   1 Cytochrome c domain-containing protein n=1 Tax=Blastopirellula marina DSM 3645 TaxID=314230 RepID=A3ZWK1_9BACT
+UniRef50_A0A1N6LCB2  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -              2e-96  334.4  13.0   2.8e-96  333.9  13.0   1.2   1   0   0   1   1   1   1 Putative membrane-bound dehydrogenase domain-containing protein n=3 Tax=Planctomycetes TaxID=203682 RepID=A0A1N6LCB2_9BACT
+UniRef50_E8QX92      -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            4.6e-95  329.9   8.2   6.9e-95  329.3   8.2   1.2   1   0   0   1   1   1   1 Heme-binding protein n=2 Tax=Isosphaera pallida TaxID=128 RepID=E8QX92_ISOPI
+UniRef50_A0A3C1QXE8  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            2.7e-94  327.4   6.6   4.1e-94  326.8   6.6   1.2   1   0   0   1   1   1   1 Cytochrome c domain-containing protein n=1 Tax=Planctomycetaceae bacterium TaxID=2026779 RepID=A0A3C1QXE8_9PLAN
+UniRef50_A0A3L7N1C1  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -              5e-94  326.5  10.3     8e-94  325.8  10.3   1.2   1   0   0   1   1   1   1 Dehydrogenase (Fragment) n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3L7N1C1_9BACT
+UniRef50_A0A1N6G2S0  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            9.9e-92  318.9   8.8   1.5e-91  318.3   8.8   1.2   1   0   0   1   1   1   1 Putative heme-binding domain-containing protein n=6 Tax=Isosphaeraceae TaxID=1763524 RepID=A0A1N6G2S0_9BACT
+UniRef50_A0A518GYP9  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            2.5e-90  314.3   3.5   2.9e-90  314.1   3.5   1.0   1   0   0   1   1   1   1 Uncharacterized protein n=1 Tax=Tautonia plasticadhaerens TaxID=2527974 RepID=A0A518GYP9_9BACT
+UniRef50_A0A2E8DAL7  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            5.4e-87  303.3   9.4   7.9e-87  302.8   9.4   1.1   1   0   0   1   1   1   1 Cytochrome c domain-containing protein n=3 Tax=Planctomycetaceae bacterium TaxID=2026779 RepID=A0A2E8DAL7_9PLAN
+UniRef50_B4DAV1      -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            2.4e-84  294.6  16.2   1.1e-82  289.2  13.4   2.7   2   1   0   2   2   2   1 Heme-binding protein n=1 Tax=Chthoniobacter flavus Ellin428 TaxID=497964 RepID=B4DAV1_9BACT
+UniRef50_A0A521H831  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            3.8e-84  294.0  10.1   5.8e-84  293.4  10.1   1.2   1   0   0   1   1   1   1 C-type cytochrome n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A521H831_9BACT
+UniRef50_A0A2V5NYA3  -          A0A225E1Q9_N|FRUB_03575|Fimbriiglobus -            6.1e-84  293.3   2.3     1e-83  292.6   2.3   1.3   1   0   0   1   1   1   1 Uncharacterized protein n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V5NYA3_9BACT
+#
+# Program:         jackhmmer
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ./PVC_BP/A0A225E1Q9.seq
+# Target file:     /media/fernando/TOSHIBA/db/uniref50.fasta
+# Option settings: jackhmmer -N 1 --tblout ./PVC_BP/A0A225E1Q9.tbl -E 1e-80 --cpu 10 ./PVC_BP/A0A225E1Q9.seq /media/fernando/TOSHIBA/db/uniref50.fasta 
+# Current dir:     /home/fernando/Programas/hmmer-3.3.2/tutorial
+# Date:            Wed Aug 17 13:45:36 2022
+# [ok]

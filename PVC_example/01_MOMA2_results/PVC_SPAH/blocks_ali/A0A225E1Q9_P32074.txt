@@ -1,0 +1,40 @@
+>pdb0A_pdb2A [(4, 6), (13, 3), (16, 4), (20, 4), (24, 5)] ['kabsch_icp', 'kabsch_icp', 'kabsch_icp', 'kabsch', 'kabsch_icp']
+            	______________          ____________             ____________________________      _______
+pdb0A_4_6_q	GQEAIEPVTALLNDAKAPAF----ARWSAIWTLDAIDGGKS--------SRTAIIAALKDDDASVRRQAARQLGTRA------AREATSE
+pdb2A_4_6_t	VLMATSSIMKDVQN------GSDLIKPDAIRSLTYV-----LDESTAFSAERLLKSAVVSRHPSISSAALCTSYHLLPISEVTIRRFTNE
+            	+  *   +   ++           ++  ** +*  +                ++  *+    +*+   *+ +    +      +*  *+*
+            	_________                  _____________ 
+pdb0A_4_6_q	LTKLLVGEDA-----------------SVRFQAAAALGRIG
+pdb2A_4_6_t	TQEAVLDLK-QFPNQHGNSEYYPNSTYISQYHALGLLYQL-
+            	 + +++                        + *+++*  + 
+
+            	  _________            ____________                                         ______________
+pdb0A_13_3_q	VEGLAVALAAFAADAKHPAEA--RAAAVAALAALHRKPLPWNGQWWGTQPVRSPRPAGVDAWA-------------GTPVALKAVRDSLK
+pdb2A_13_3_t	--PLLSDWLSN----------KFESVQLETAKLIT----------------------------SFATRNSRLVAPELYAAAISALQSLLT
+            	  +*+   +                + +  + ++                                          + ++*+ *+   * 
+            	_
+pdb0A_13_3_q	S
+pdb2A_13_3_t	V
+            	 
+
+            	________________      _____  _______ _________________           ________       
+pdb0A_16_4_q	DAILRRAAIEAVAVVK------DADSAA-ALVPAFPKESDPEVKRAILRALAAVKSPAA------ADLVASLLAK-----
+pdb2A_16_4_t	RVSSRFAALRILNRISMVSPEKIVVCN-PELESLIN-DSNRNISTYAITTLLKT-----GTSKNISSLISTIT--NFIHD
+            	 +  * **+ ++  +        + +    *  +   +*   +   ++  *+               *+ ++        
+
+            	________________          _____________        ______________     ____________    
+pdb0A_20_4_q	TPDLLADAVAAAGQIGGA--------KMTEALTSFIASQAP------PVAVASAIEFLGTQK----ATAAVPTIAARLT---
+pdb2A_20_4_t	SDDFKIIIIDAVRTLS--LNFPQEWKSILNFLIDVLKNS--EGGFKFKNSIVEALIDIVSF-VPQSKELALENLCDFI-EDC
+            	+ *  + ++ *+ ++            +   *   + ++           ++ *+  +++        +*+ ++   +    
+
+            	      _____________       _____________  ________________          _____________      ____
+pdb0A_24_5_q	DAK---VRTAAVAALAAIGG------EPAAKALVSMLADK-KPDVRRAAIGALAVVKS---------KSAIEPLLKAFADPD----TRFE
+pdb2A_24_5_t	---FNEILVRILHLLGKEG-PSAPNPSLYVRHIYNRVVL-ENSIIRSAAVVALSKFA-LTKNDPTLYESIISLLKRIAND--KDDEVRDR
+            	      +   ++ +*+  *        + ++ + + ++      +* **++**               *+* +* ++  *       *  
+            	______          
+pdb0A_24_5_q	AVAALAAT--------
+pdb2A_24_5_t	ATIALE--FIDSARNK
+            	* +**           
+
+
+eq:292	*:43	+:98	* and +:141
