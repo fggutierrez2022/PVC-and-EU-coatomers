@@ -1,0 +1,51 @@
+BP bscore
+Results
+MDS (seed, stress): 3005 13.09672
+best clustering GMM (n groups, seed, avg_sil): 9 4 0.384268074589863
+best clustering GMM (n groups, seed, avg_sil): 6 30 0.36590783241285646
+best clustering GMM (n groups, seed, avg_sil): 8 38 0.36454794590688727
+best clustering GMM (n groups, seed, avg_sil): 9 158 0.36393810014684186
+best clustering GMM (n groups, seed, avg_sil): 4 51 0.3612265499477503
+
+BP sr
+Results
+MDS (seed, stress): 3366 11.19225
+best clustering GMM (n groups, seed, avg_sil): 9 55 0.39709023502862784
+best clustering GMM (n groups, seed, avg_sil): 8 504 0.38347815957844616
+best clustering GMM (n groups, seed, avg_sil): 7 444 0.38279284095673405
+best clustering GMM (n groups, seed, avg_sil): 8 401 0.3823721492442992
+best clustering GMM (n groups, seed, avg_sil): 9 317 0.3807660552496045
+
+SPAH bscore
+Results
+MDS (seed, stress): 3392 107.25065
+best clustering GMM (n groups, seed, avg_sil): 8 651 0.25386896028923306
+best clustering GMM (n groups, seed, avg_sil): 9 142 0.24651106872011516
+
+SPAH sr
+Results
+MDS (seed, stress): 3799 68.01473
+best clustering GMM (n groups, seed, avg_sil): 7 518 0.3091856083611944
+best clustering GMM (n groups, seed, avg_sil): 6 564 0.30826444015528115
+best clustering GMM (n groups, seed, avg_sil): 9 558 0.3063102369684416
+best clustering GMM (n groups, seed, avg_sil): 6 659 0.30333417146510344
+best clustering GMM (n groups, seed, avg_sil): 5 211 0.3009786078218723
+
+EU and PVC coatomers, bscore
+Results
+MDS (seed, stress): 3065 90.83213
+best clustering GMM (n groups, seed, avg_sil): 7 21 0.4422503156852163
+best clustering GMM (n groups, seed, avg_sil): 9 334 0.4357628856514392
+best clustering GMM (n groups, seed, avg_sil): 7 3 0.4352146652881946
+best clustering GMM (n groups, seed, avg_sil): 8 488 0.4316039890322257
+best clustering GMM (n groups, seed, avg_sil): 6 429 0.43003407628589946
+
+EU and PVC coatomers, sr
+Results
+MDS (seed, stress): 3476 70.97919
+best clustering GMM (n groups, seed, avg_sil): 9 13 0.4071320191774749
+best clustering GMM (n groups, seed, avg_sil): 7 358 0.40345850627438673
+best clustering GMM (n groups, seed, avg_sil): 9 366 0.4033724828317379
+best clustering GMM (n groups, seed, avg_sil): 7 321 0.4018873312242618
+best clustering GMM (n groups, seed, avg_sil): 9 355 0.40138185692947204
+
